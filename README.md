@@ -11,7 +11,7 @@ Bash script for installing Go (Golang) on macOS. Supports both system-wide and u
 - ✅ Multiple shell support (zsh, bash)
 - ✅ Homebrew installation detection and cleanup
 - ✅ Backup of modified shell configuration files
-- ✅ Comprehensive error handling
+- ✅ Error handling
 
 ## Requirements
 
